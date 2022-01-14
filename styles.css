@@ -76,6 +76,9 @@ h1{
     input[type="text"], textarea{
         width: 560px;
     }
+    .checkbox {
+        margin-left: 0;
+      }
 }
 
 input[type="text"]{
